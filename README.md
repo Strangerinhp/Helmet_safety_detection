@@ -15,5 +15,5 @@ Welcome to my **Helmet Safety Detection** project - my submission for the first 
   - You can see all essential packages in 'requirements.txt" file in 'data/Safety_Helmet_Dataset.zip'. For detail, read it in the notebook file.
   
 ## Running the Project
-- Follow steps-by-steps in Google Colab to run this project. Resources for this project are all in folder (./data/) in the cloned folder.
+- Follow steps-by-steps in Google Colab to run this project. Resources for this project are all in folder (./data/) in the cloned folder. About testing file, the link to it is in Google Colab too
 
